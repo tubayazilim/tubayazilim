@@ -1,6 +1,6 @@
 # Tuba Yazılım - Fark Yaratan Web Çözümleri 🚀
 
-![Tuba Yazılım Logo]([https://tubayazilim.com.tr/logo.png](https://tubayazilim.com.tr/resources/uploads/logo/2024-11-20/en-iyi-hazir-web-yazilim-satis-sitesi-hizli-ve-guvenilir-tuba-yazilim-2.png))
+![Tuba Yazılım Logo](https://tubayazilim.com.tr/resources/uploads/logo/2024-11-20/en-iyi-hazir-web-yazilim-satis-sitesi-hizli-ve-guvenilir-tuba-yazilim-2.png)
 
 ## Hakkımızda
 Tuba Yazılım olarak, farklı sektörlere yönelik hazır web sitesi tasarımlarımız ve özel web sitesi tasarımı hizmetlerimizle müşterilerimizin her türlü ihtiyacını karşılıyoruz. Alan adı, hosting, SSL sertifikası ve içerik yönetimi hizmetleri ile tam donanımlı web siteleri oluşturuyoruz. Amacımız, markanızı dijital dünyada öne çıkarmak ve müşteri kitlenizi genişletmektir.
